@@ -1,6 +1,6 @@
 # Site settings
 title: Alexsandro Devblog & Stuff
-description: Ciência de dados, computação, outros interesses e vez em quando outras coisas ㋡
+description: Ciência de dados, computação e as vezes assuntos aleatorios ㋡
 favicon: assets/images/favicon.png
 baseurl: "/" # the subpath of your site, e.g. /blog/ or / for root
 url: "https://alexsandr0x.github.io" # the base hostname & protocol for your site
