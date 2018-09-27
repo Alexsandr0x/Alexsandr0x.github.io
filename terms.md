@@ -1,10 +1,9 @@
+
 ---
 layout: page
 title: Termos de Compromisso: CrowdTrend
 permalink: /terms/
 ---
-
-### TERMO DE COMPROMISSO CROWDTREND
 
 #### Olá : )
 
@@ -24,5 +23,5 @@ Não usamos nenhum dado pessoal do usuário e não requisitamos seu login do Fac
 
 Como esse projeto tem cunho academico, não estou aberto a nova implementações. Mas se quiser ajuda para entender o funcionamento dessa solução pode entrar em contato comigo:
 
-* (Github)[http://github.com]
-* (Email)[alexsandro@gmail.com]
+* [Github](http://github.com0)
+* [Email](alexsandro@gmail.com)
